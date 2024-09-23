@@ -1,0 +1,37 @@
+#first{
+    background-color:#d8514e;
+    height:150px;
+    width:337px;
+}
+#second{
+    background-color:#2a2b2d;
+    height:150px;
+    width:337px;
+    z-index:100;
+    top:103px;
+    left:168px;
+    position:absolute;
+}
+#third{
+    background-color:#2ea8d9;
+    height:150px;
+    width:357px;
+    top:196px;
+    left:324px;
+    position:absolute;
+}
+body{
+    text-align: right;
+}
+
+div{
+    padding:20px;
+    margin:10px;
+    border:10px;
+    padding-left: 10px;
+    padding-top: 1px;
+    color:white;
+    text-align:left;
+    line-height: 19px;
+
+}

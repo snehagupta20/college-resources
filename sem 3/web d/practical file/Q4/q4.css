@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: 'Almendra Display', cursive;
+}
+
+.head{
+    margin:0;
+    padding:0;
+}
+.heading{
+    margin-left:13px;
+    line-height:61px;
+    font-family: 'Amarante', cursive;
+}
+
+.navbar{
+    font-family: 'Amarante', cursive;
+}
+
+ul{
+    margin:0;
+    display:flex;
+}
+li{
+    margin-right:50px;
+    margin-left:0px;
+    padding-left:0px;
+}
+.main{
+    margin-left:2px;
+}
+img{
+    float: left;
+    padding-top:0px;
+    padding-left:0px;
+    padding-right:10px
+    
+}

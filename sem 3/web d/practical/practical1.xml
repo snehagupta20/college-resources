@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="practical2.xslt"?>
+<transactions>
+    <line>
+        <transaction_id> 1 </transaction_id>
+        <sent_to> Mr Rajeev Kumar</sent_to>
+        <acc_number>26004123418202</acc_number>
+        <amount_trans>1000.00</amount_trans>
+        <date> 19 December 2022 </date>
+        <end_balance>9000 </end_balance>
+    </line>
+    
+    <line>
+        <transaction_id> 2 </transaction_id>
+        <sent_to>Mr Ajay Kumar</sent_to>
+        <acc_number>26004123418202</acc_number>
+        <amount_trans>1000.00</amount_trans>
+        <date> 19 December 2022 </date>
+        <end_balance>9000 </end_balance>
+    </line>
+    
+    <line>
+        <transaction_id> 3 </transaction_id>
+        <sent_to>Mrs Swati Gupta</sent_to>
+        <acc_number>26004123417235</acc_number>
+        <amount_trans>1500.00</amount_trans>
+        <date> 20 December 2022 </date>
+        <end_balance> 7500</end_balance>
+    </line>
+    
+    <line>
+        <transaction_id> 4 </transaction_id>
+        <sent_to>Mr Rajesh Khanna</sent_to>
+        <acc_number>26004456517235</acc_number>
+        <amount_trans>1200.00</amount_trans>
+        <date> 20 December 2022 </date>
+        <end_balance>8700 </end_balance>
+    </line>
+
+</transactions>
